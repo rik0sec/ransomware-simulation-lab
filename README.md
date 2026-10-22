@@ -61,23 +61,22 @@ No real exfiltration, lateral movement, or network propagation is implemented �
 ## 🖼️ Screenshots
 
 ### 1. Victim's files before the simulation
-![Before Simulation](assets/before-simulation.png)
+![Before Simulation](docs/evidence/before-simulation.png)
 
 ### 2. Ransomware active — system locked
-![Ransomware Active](assets/ransomeware-aktif.png)
+![Ransomware Active](docs/evidence/ransomeware-aktif.png)
 
 ### 3. Ransom note (attacker's message) delivered to the victim
-![Ransom Note](assets/menampilkanpesan_dari_si_attaker.png)
+![Ransom Note](docs/evidence/menampilkanpesan_dari_si_attaker.png)
 
 ### 4. Invalid key attempt rejected
-![Invalid Key](assets/Invalid-Key.png)
+![Invalid Key](docs/evidence/Invalid-Key.png)
 
 ### 5. Attacker's C2 control panel
-![C2 Dashboard](assets/c2-dashboard.png)
+![C2 Dashboard](docs/evidence/c2-dashboard.png)
 
 ### 6. Victim's files after the simulation (locked state)
-![After Simulation](assets/after-simulation.png)
-
+![After Simulation](docs/evidence/after-simulation.png)
 ---
 
 ## 🎓 Key Concepts & Lessons Learned
